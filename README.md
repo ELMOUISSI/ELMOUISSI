@@ -39,4 +39,4 @@ A **ReactJS** mobile app for tracking expenses.
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-el-mouissi-604931267/)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)]([)](https://github.com/ELMOUISSI/ELMOUISSI/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)]([)](https://github.com/ELMOUISSI/)  
